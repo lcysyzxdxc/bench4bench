@@ -42,7 +42,7 @@
  <a href="https://github.com/lcysyzxdxc/bench4bench"><strong>Project Page</strong></a> |
  <a href="https://huggingface.co/datasets/lcysyzxdxc/bench4bench"><strong>Data</strong></a> 
  <div style="width: 100%; text-align: center; margin:auto;">
-      <img style="width:60%" src="spotlight.png">
+      <img style="width:60%" src="teaser.png">
  </div>
 </div>
 
