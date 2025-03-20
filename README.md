@@ -91,7 +91,7 @@ Additionally, this work **does not involve praising or criticizing** any multimo
 | MME-Realworld   | 0.480       | **0.666**   | **0.040**   | 0.701       | Aug-2024 |
 | HR-Bench        | 0.369       | 0.380       | 0.113       | 0.205       | Aug-2024 |
 | R-Bench         | 0.336       | 0.382       | 0.110       | 0.873       | Sep-2024 |
-| NaturalBench    | 0.464       | 0.215       | 0.209       | 0.478       | Oct-2024 |
+<!-- | NaturalBench    | 0.464       | 0.215       | 0.209       | 0.478       | Oct-2024 | -->
 
 
 </div>
